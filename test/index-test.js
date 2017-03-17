@@ -43,4 +43,5 @@ describe('index', function() {
       expect(callback.calls.length).toEqual(3)
     })
   })
+
 })
